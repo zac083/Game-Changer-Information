@@ -1,6 +1,7 @@
 **NA CONFIG FOR ZAC'S GAME CHANGER SERIES**
 
 **CONFIG IF GAME GETS SET TO 1.20**
+
 -Terrain: Pre-1.18
 
 -Cave Terrain: Pre-1.18 (Lowest y level is 0)
@@ -25,7 +26,9 @@
 
 
 **CONFIG CATEGORY FOR MY GAMES AT THIS MOMENT**
+
 **Healing**
+
 -Starter Absorption: 0 hearts
 
 -Heads: Enabled, Heals 4 hearts, stackable
@@ -35,6 +38,7 @@
 -Notch Apples: Disabled
 
 **Nether**
+
 -Nether: Enabled
 
 -Strength Pots: Disabled
@@ -47,7 +51,8 @@
 
 -Quartz Exp: Vanilla
 
-Rates:
+**Rates:**
+
 -Apple Rates: 1.5%
 
 -Flint Rates: 75%
@@ -60,7 +65,8 @@ Rates:
 
 -Ores appear in caves only: Enabled
 
-Horses: 
+**Horses:** 
+
 -Horse Riding: Enabled
 
 -Horse Armor: Enabled
@@ -69,7 +75,8 @@ Horses:
 
 -Saddle Drops: Enabled
 
-Misc: 
+**Misc:** 
+
 -Bookshelves: Disabled
 
 -Fire Aspect: Enabled, but only on enchanted books
