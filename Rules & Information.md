@@ -7,7 +7,7 @@ Hello there all! Welcome to the Game Changer's sheet! Here are the rules for the
 - NA Game will happen every Saturday at 00:00 UTC (8:00 PM Eastern Time)
 - EU Game will happen every Sunday at 17:00 UTC* (01:00 PM Eastern). The Asterisks represents that it may not occur depending on if I have a 5k race day during this time period. 
 
-When a player wins a game and/or gets top kills, they get to choose one of these options for the next game.
+When a player wins a game and/or gets top kills, they get to choose one of these options for the next game. You have until Wednesday at 23:00 UTC time to submit any changes whether through my discord messages or when the game finishes.
 
 - Add Scenarios (Choose up to three scenarios from /scen list)
 - Change Teamsize
@@ -42,7 +42,7 @@ Version: 1.8
 Any Config Differences: Absorption to 1 heart
 
 **CURRENT SCENARIOS FOR NA GAME:**
-- CutClean (Infinite), Bleeding Sweets (5), Hastey Boys (5), Timber (5)
+- CutClean (Infinite), Bleeding Sweets (4), Hastey Boys (4), Timber (4)
 Version: 1.8
 Any Config Differences: None
 
