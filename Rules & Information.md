@@ -37,12 +37,12 @@ The decision will go as follows: The player who wins will pick first, then the p
 
 **CURRENT SCENARIOS FOR EU GAME:**
 
-- CutClean (Infinite), Bleeding Sweets (4), Hastey Boys (4), Timber (4), Fast Getaway (5)
+- CutClean (Infinite), Bleeding Sweets (3), Hastey Boys (3), Timber (3), Fast Getaway (4)
 Version: 1.8
 Any Config Differences: Absorption to 1 heart
 
 **CURRENT SCENARIOS FOR NA GAME:**
-- CutClean (Infinite), Bleeding Sweets (4), Hastey Boys (4), Timber (4)
+- CutClean (Infinite), Bleeding Sweets (3), Hastey Boys (3), Timber (3)
 Version: 1.8
 Any Config Differences: None
 
