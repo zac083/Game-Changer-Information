@@ -11,7 +11,7 @@ When a player wins a game and/or gets top kills, they get to choose one of these
 
 - Add Scenarios (Choose up to three scenarios from /scen list)
 - Change Teamsize
-- Remove Scenarios (Up to how ever many, but they cannot replace the scenarios.)
+- Remove Scenarios (Up to 3, but they cannot replace the scenarios.)
 - Change 2 Config Options
 - Change Version (If 1.8 it'll be 1.20, if 1.20 back to 1.8)
 - Keep it as it is
