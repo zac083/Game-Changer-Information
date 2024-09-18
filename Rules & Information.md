@@ -39,10 +39,10 @@ The decision will go as follows: The player who wins will pick first, then the p
 
 - CutClean (Infinite), Bleeding Sweets (3), Hastey Boys (3), Timber (3), Fast Getaway (4), Tunnels (5), Slender Sniper (5), Period of Resistance (5)
 Version: 1.8
-Any Config Differences: Absorption to 2 hearts, Fire aspect is completely off. 
+Any Config Differences: Fire aspect is completely off. 
 
 **CURRENT SCENARIOS FOR NA GAME:**
-- CutClean (Infinite), Bleeding Sweets (3), Hastey Boys (3), Timber (3)
+- CutClean (Infinite), Bleeding Sweets (3), Hastey Boys (3), Timber (3), Barebones (3), Bowless (5)
 Version: 1.8
 Any Config Differences: None
 
