@@ -33,7 +33,7 @@
 
 -Heads: Enabled, Heals 4 hearts, stackable
 
--Absorption: Disabled
+-Absorption: Enabled, 2 hearts
 
 -Notch Apples: Disabled
 
