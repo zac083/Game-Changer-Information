@@ -42,7 +42,7 @@ Version: 1.8
 Any Config Differences: Fire aspect is completely off. 
 
 **CURRENT SCENARIOS FOR NA GAME:**
-- CutClean (Infinite), Bleeding Sweets (3), Hastey Boys (3), Timber (3), Barebones (3), Bowless (5), Fireless (5)
+- CutClean (Infinite), Bleeding Sweets (2), Hastey Boys (2), Timber (2), Barebones (2), Bowless (4), Fireless (4)
 Version: 1.8
 Any Config Differences: None
 
