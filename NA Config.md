@@ -39,7 +39,7 @@
 
 **Nether**
 
--Nether: Enabled (However turned off due to Barebones)
+-Nether: Enabled 
 
 -Strength Pots: Disabled
 
