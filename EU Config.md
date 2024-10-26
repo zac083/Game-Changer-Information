@@ -28,7 +28,7 @@
 
 **Healing**
 
--Starter Absorption: 0 hearts
+-Starter Absorption: 4 hearts
 
 -Heads: Enabled, Heals 4 hearts, stackable
 
@@ -52,7 +52,7 @@
 
 **Rates:**
 
--Apple Rates: 1.5%
+-Apple Rates: 2.5%
 
 -Flint Rates: 75%
 
@@ -68,7 +68,7 @@
 
 -Horse Riding: Enabled
 
--Horse Armor: Enabled
+-Horse Armor: Disabled
 
 -Horse Healing: Disabled
 
@@ -86,7 +86,7 @@
 
 -Double Arrows: Disabled
 
--Supply Crates: Enabled
+-Supply Crates: Enabled, 2 per quadrant
 
 -Split Enchants: Disabled
 
