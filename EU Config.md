@@ -58,9 +58,9 @@
 
 -Cave Rates: 2x
 
--Diamond Rates: 25% Removed
+-Diamond Rates: 15% Removed
 
--Gold Rates: 25% Removed
+-Gold Rates: 15% Removed
 
 -Ores appear in caves only: Enabled
 
