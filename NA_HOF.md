@@ -9,3 +9,7 @@ Game 2 Winner:
 Game 3 Winner:
 
 - iloveitsomuch: 5 kills
+
+Game 4 Winner: 
+
+- iloveitsomuch: 4 kills
