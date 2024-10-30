@@ -37,14 +37,14 @@ The decision will go as follows: The player who wins will pick first, then the p
 
 **CURRENT SCENARIOS FOR EU GAME:**
 
-- CutClean (Infinite), Bleeding Sweets (2), Hastey Boys (2), Timber (2), Fast Getaway (3), Tunnels (4), Slender Sniper (4), Period of Resistance (4)
+- CutClean (Infinite), Bleeding Sweets (1), Hastey Boys (1), Timber (1), Fast Getaway (2), Tunnels (3), Slender Sniper (3), Period of Resistance (3)
 Version: 1.8
 Any Config Differences: Fire aspect is completely off, start absorption 4 hearts, Horse armor off, apple rates 2.5%, Supply crates 2 per quad
 
 **CURRENT SCENARIOS FOR NA GAME:**
-- CutClean (Infinite), Bleeding Sweets (2), Hastey Boys (2), Timber (2), Fireless (4), Tunnels (5), Period of Resistance (5), Slender Sniper (5)
+- CutClean (Infinite), Bleeding Sweets (1), Hastey Boys (1), Timber (1), Fireless (3), Tunnels (4), Period of Resistance (4), Slender Sniper (4)
 Version: 1.8
-Any Config Differences: Fire aspect on but only on books, starter absorption 0 hearts, horse armor on, apple rate 1.5%, supply crates 1 per quadrant
+Any Config Differences: Fire aspect on but only on books, starter absorption 0 hearts, horse armor on, supply crates 1 per quadrant
 
 One last thing in mind, PLEASE BE REASONABLE WITH YOUR DECISIONS! I will reject your addition if it is reasonably unfit/provides a bad experience towards the community! Please think before you choose!
 
