@@ -53,15 +53,15 @@
 
 **Rates:**
 
--Apple Rates: 1.5%
+-Apple Rates: 2.5%
 
 -Flint Rates: 75%
 
 -Cave Rates: 2x
 
--Diamond Rates: 25% Removed
+-Diamond Rates: 15% Removed
 
--Gold Rates: 25% Removed
+-Gold Rates: 15% Removed
 
 -Ores appear in caves only: Enabled
 
