@@ -39,7 +39,7 @@ The decision will go as follows: The player who wins will pick first, then the p
 
 - CutClean (Infinite), Bleeding Sweets (1), Hastey Boys (1), Timber (1), Fast Getaway (2), Tunnels (3), Slender Sniper (3), Period of Resistance (3)
 Version: 1.8
-Any Config Differences: Fire aspect is completely off, start absorption 4 hearts, Horse armor off, apple rates 2.5%, Supply crates 2 per quad
+Any Config Differences: Fire aspect is completely off, start absorption 4 hearts, Horse armor off, Supply crates 2 per quad
 
 **CURRENT SCENARIOS FOR NA GAME:**
 - CutClean (Infinite), Bleeding Sweets (1), Hastey Boys (1), Timber (1), Fireless (3), Tunnels (4), Period of Resistance (4), Slender Sniper (4)
