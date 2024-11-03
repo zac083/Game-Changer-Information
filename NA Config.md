@@ -98,7 +98,7 @@
 Border: 
 -Border Type: Teleporting
 
--Final Border size: 300x300
+-Final Border size: 100x100
 
 -Meet-up Block Decay: Enabled
 
