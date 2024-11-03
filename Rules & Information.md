@@ -5,7 +5,7 @@ Hello there all! Welcome to the Game Changer's sheet! Here are the rules for the
 
 - I start a game hosting an FFA CutClean, Bleeding Sweets, Hastey Boys, Timber game as a start for BOTH EU and NA Servers. 
 - NA Game will happen every Saturday at 00:00 UTC (8:00 PM Eastern Time)
-- EU Game will happen every Sunday at 17:00 UTC* (01:00 PM Eastern). The Asterisks represents that it may not occur depending on if I have a 5k race day during this time period. 
+- EU Game will happen every Sunday at 17:00 UTC* (12:00 PM Eastern). The Asterisks represents that it may not occur depending on if I have a 5k race day during this time period. 
 
 When a player wins a game and/or gets top kills, they get to choose one of these options for the next game. You have until Wednesday at 23:00 UTC time to submit any changes whether through my discord messages or when the game finishes.
 
@@ -24,7 +24,8 @@ If the game is a Team game, the person on the winning team with the most kills w
 
 If the person wins a game, and has the most kills, they will get to pick 2 options.  
 
-The decision will go as follows: The player who wins will pick first, then the person with the most kills will pick next. The top killer will be notified about what the winner has chosen and has the power to change it if they so desire.
+The decision will go as follows: The player who wins will pick first, then the person with the most kills will pick next. The top killer will be notified about what the winner has chosen and has the power to change it if they so desire. **IF THERE IS A TIE FOR TOP FRAG,** whoever got the most kills first will get top frag award. 
+
 
 **Captains/Auction Rules/Mystery Teams Rules**
 
@@ -37,14 +38,14 @@ The decision will go as follows: The player who wins will pick first, then the p
 
 **CURRENT SCENARIOS FOR EU GAME:**
 
-- CutClean (Infinite), Bleeding Sweets (1), Hastey Boys (1), Timber (1), Fast Getaway (2), Tunnels (3), Slender Sniper (3), Period of Resistance (3)
-Version: 1.8
-Any Config Differences: Fire aspect is completely off, start absorption 4 hearts, Horse armor off, Supply crates 2 per quad
+- CutClean (Infinite), Fast Getaway (1), Tunnels (OFF Tempararly) (2), Slender Sniper (2), Period of Resistance (2)
+Version: 1.20
+Any Config Differences: Fire aspect is completely off, start absorption 4 hearts, Horse armor off, Supply crates 2 per quad, Ore Rates: Vanilla (WILL BE DOUBLED IN 1.8 VERSION) 
 
 **CURRENT SCENARIOS FOR NA GAME:**
-- CutClean (Infinite), Bleeding Sweets (1), Hastey Boys (1), Timber (1), Fireless (3), Tunnels (4), Period of Resistance (4), Slender Sniper (4)
+- CutClean (Infinite), Bleeding Sweets (5), Hastey Boys (5), Timber (5), Fireless (2), Tunnels (3), Period of Resistance (3), Slender Sniper (3)
 Version: 1.8
-Any Config Differences: Fire aspect on but only on books, starter absorption 0 hearts, horse armor on, supply crates 1 per quadrant
+Any Config Differences: Fire aspect on but only on books, starter absorption 0 hearts, horse armor on, supply crates 1 per quadrant, **VERSION: 1.8**
 
 One last thing in mind, PLEASE BE REASONABLE WITH YOUR DECISIONS! I will reject your addition if it is reasonably unfit/provides a bad experience towards the community! Please think before you choose!
 
