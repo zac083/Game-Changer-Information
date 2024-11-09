@@ -1,6 +1,7 @@
 **EU CONFIG FOR ZAC'S GAME CHANGER SERIES**
 
 **CONFIG IF GAME GETS SET TO 1.20**
+
 -Terrain: Pre-1.18
 
 -Cave Terrain: Pre-1.18 (Lowest y level is 0)
