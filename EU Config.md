@@ -8,8 +8,6 @@
 
 -Combat Type: 1.9+
 
--Shields: Enabled
-
 -End Crystal Crafting: Disabled
 
 -Trident Crafting: Disabled
