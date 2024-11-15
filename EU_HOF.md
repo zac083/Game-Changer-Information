@@ -17,3 +17,7 @@
 - Game 5 Winner:
 
 - iloveitsomuch: 4 kills
+
+- Game 6 Winner: 
+
+- webgoat_: 4 kills
