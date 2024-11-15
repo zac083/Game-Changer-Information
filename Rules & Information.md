@@ -38,7 +38,7 @@ The decision will go as follows: The player who wins will pick first, then the p
 
 **CURRENT SCENARIOS FOR EU GAME:**
 
-- CutClean (Infinite), Tunnels (OFF Tempararly) (2), Slender Sniper (1), Period of Resistance (1), Hastey Boys (5), Timber (5), Bowless (5)
+- CutClean (Infinite), Tunnels (OFF Tempararly) (2), Slender Sniper (1) (OFF Temararly), Period of Resistance (1), Hastey Boys (5), Timber (5), Bowless (5)
 
 Version: 1.20
 
