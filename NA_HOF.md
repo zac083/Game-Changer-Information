@@ -17,3 +17,7 @@ Game 4 Winner:
 - Game 5 Winner:
 
 - CHAINGE: 0 kills
+
+- Game 6 Winner:
+
+- OnStep: 3 kills
