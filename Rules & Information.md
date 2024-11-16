@@ -46,7 +46,7 @@ Any Config Differences: Fire aspect is completely off, start absorption 4 hearts
 
 **CURRENT SCENARIOS FOR NA GAME:**
 
-- CutClean (Infinite), Bleeding Sweets (5), Hastey Boys (5), Timber (5), Slender Sniper (3), Bookception (5), Red Arrows+ (5)
+- CutClean (Infinite), Bleeding Sweets (5), Hastey Boys (5), Timber (5), Slender Sniper (2), Bookception (5), Red Arrows+ (5)
 
 Version: 1.8
 
