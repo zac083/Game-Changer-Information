@@ -21,3 +21,7 @@
 - Game 6 Winner: 
 
 - webgoat_: 4 kills
+
+- Game 7 Winner:
+
+- mc_sens: 3 kills
