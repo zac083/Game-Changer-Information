@@ -21,3 +21,7 @@ Game 4 Winner:
 - Game 6 Winner:
 
 - OnStep: 3 kills
+
+- Game 7 Winner:
+
+- SAYNAR: 7 kills
