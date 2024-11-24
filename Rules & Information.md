@@ -45,9 +45,9 @@ Version: 1.8
 Any Config Differences: Fire aspect is completely off, start absorption 4 hearts, Horse armor off, Supply crates 2 per quad, Ore Rates: Doubled
 **CURRENT SCENARIOS FOR NA GAME:**
 
-- CutClean (Infinite), Bleeding Sweets (3), Hastey Boys (3), Timber (3), Bookception (3), Red Arrows+ (3)
+- CutClean (Infinite), Bleeding Sweets (3), Hastey Boys (3), Timber (3), Bookception (3), Red Arrows+ (3), Golden Retriever (5), Lootcrates (5)
 
-Version: 1.8
+Version: 1.20
 
 Any Config Differences: Fire aspect on but only on books, starter absorption 0 hearts, horse armor on, supply crates 1 per quadrant, Ore rates: 15% removed
 
