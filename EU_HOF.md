@@ -25,3 +25,7 @@
 - Game 7 Winner:
 
 - mc_sens: 3 kills
+
+- Game 8 Winner:
+
+- Big_Boom_Ben: 7 kills
