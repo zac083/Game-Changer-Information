@@ -37,7 +37,7 @@
 
 **Nether**
 
--Nether: Enabled
+-Nether: Disabled (UNTIL SUPERHEROES IS DISABLED)
 
 -Strength Pots: Disabled
 
@@ -57,9 +57,9 @@
 
 -Cave Rates: 2x
 
--Diamond Rates: Vanilla (WILL BE DOUBLED IN 1.8)
+-Diamond Rates: 30% Removed
 
--Gold Rates: Vanilla (WILL BE DOUBLED IN 1.8)
+-Gold Rates: 30% Removed
 
 -Ores appear in caves only: Enabled
 
