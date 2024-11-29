@@ -25,3 +25,7 @@ Game 4 Winner:
 - Game 7 Winner:
 
 - SAYNAR: 7 kills
+
+- Game 8 Winner:
+
+- Cloverrs: 9 kills
