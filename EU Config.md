@@ -57,7 +57,7 @@
 
 -Cave Rates: 2x
 
--Diamond Rates: 30% Removed
+-Diamond Rates: 20% Removed
 
 -Gold Rates: 30% Removed
 
