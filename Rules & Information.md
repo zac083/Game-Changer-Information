@@ -38,14 +38,14 @@ The decision will go as follows: The player who wins will pick first, then the p
 
 **CURRENT SCENARIOS FOR EU GAME:**
 
-- CutClean (Infinite), Slender Sniper (5), Hastey Boys (2), Timber (2), Bleeding Sweets (3), Siphon (3), Superheroes (1)
+- CutClean (Infinite), Slender Sniper (4), Hastey Boys (1), Timber (1), Bleeding Sweets (2), Siphon (2), Fast Getaway (5), Do Not Disturb (5)
 
 Version: 1.8
 
 Any Config Differences: Fire aspect is completely off, start absorption 4 hearts, Horse armor off, Supply crates 2 per quad, Ore Rates: 30% removed
 **CURRENT SCENARIOS FOR NA GAME:**
 
-- CutClean (Infinite), Bleeding Sweets (1), Hastey Boys (1), Timber (1), Bookception (2), Red Arrows+ (2), Golden Retriever (4), Lootcrates (4), Shieldless (4)
+- CutClean (Infinite), Red Arrows+ (2), Golden Retriever (3), Lootcrates (3), Shieldless (3), Triple Iron (5), Rush (5)
 
 Version: 1.20
 
