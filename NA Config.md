@@ -27,7 +27,7 @@
 
 **Healing**
 
--Starter Absorption: 0 hearts
+-Starter Absorption: 10 hearts
 
 -Heads: Enabled, Heals 4 hearts, stackable
 
@@ -57,7 +57,7 @@
 
 -Cave Rates: 2x
 
--Diamond Rates: 15% Removed
+-Diamond Rates: 35% Removed
 
 -Gold Rates: 15% Removed
 
