@@ -38,18 +38,18 @@ The decision will go as follows: The player who wins will pick first, then the p
 
 **CURRENT SCENARIOS FOR EU GAME:**
 
-- CutClean (Infinite), Slender Sniper (3), Hastey Boys (5), Timber (5), Bleeding Sweets (1), Siphon (1), Fast Getaway (4), Do Not Disturb (4), OP Lootcrates (5)
+- CutClean (Infinite), Slender Sniper (2), Hastey Boys (4), Timber (4), Bleeding Sweets (5), Siphon (5), Fast Getaway (3), Do Not Disturb (3), OP Lootcrates (4), Monsters Inc. (3)
 
-Version: 1.20
+Version: 1.8
 
 Any Config Differences: Fire aspect is completely off, start absorption 4 hearts, Horse armor off, Supply crates 2 per quad, Ore Rates: 30% removed
 **CURRENT SCENARIOS FOR NA GAME:**
 
-- CutClean (Infinite), Hastey Boys (5), Timber (5), Superheroes (3), Red Arrows+ (1), Golden Retriever (2), Lootcrates (2), Shieldless (2 TEMP OFF), Triple Iron (4), Rush (4)
+- CutClean (Infinite), Hastey Boys (4), Timber (4), Superheroes (2), Golden Retriever (1), Lootcrates (1), Shieldless (2 TEMP OFF), Triple Iron (3), Rush (3)
 
 Version: 1.8
 
-Any Config Differences: Fire aspect on but only on books, starter absorption 0 hearts, horse armor on, supply crates 1 per quadrant, Ore rates: 15% removed
+Any Config Differences: Fire aspect on but only on books, starter absorption 10 hearts, horse armor on, supply crates 1 per quadrant, Ore rates: 35% diamond rate removed, 15% gold rate removed
 
 One last thing in mind, PLEASE BE REASONABLE WITH YOUR DECISIONS! I will reject your addition if it is reasonably unfit/provides a bad experience towards the community! Please think before you choose!
 
