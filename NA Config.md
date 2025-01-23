@@ -59,13 +59,13 @@
 
 -Diamond Rates: 35% Removed
 
--Gold Rates: 15% Removed
+-Gold Rates: 35% Removed
 
 -Ores appear in caves only: Enabled
 
 **Horses:** 
 
--Horse Riding: Enabled
+-Horse Riding: Disabled
 
 -Horse Armor: Enabled
 
