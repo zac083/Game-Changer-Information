@@ -5,7 +5,7 @@ Hello there all! Welcome to the Game Changer's Series 4: Bounties! Here are you 
 
 For viewing the config of each respective server click [Here for EU](https://github.com/zac083/Game-Changer-Information/blob/main/EU%20Config.md) and [Here for NA](https://github.com/zac083/Game-Changer-Information/blob/main/NA%20Config.md)
 
-For information regarding current transaction, scenario and bounties, for each respective server click the [EU]() for EU information and [NA](https://github.com/zac083/Game-Changer-Information/blob/main/NA_Transaction.md) for NA information
+For information regarding current transaction, scenario and bounties, for each respective server click the [EU](https://github.com/zac083/Game-Changer-Information/blob/main/EU_Transaction.md) for EU information and [NA](https://github.com/zac083/Game-Changer-Information/blob/main/NA_Transaction.md) for NA information
 
 - I start a game hosting an FFA True Vanila game as a start for BOTH EU and NA Servers. 
 - NA Game will happen every Saturday at 00:00 UTC (7:00 PM Eastern Time)
