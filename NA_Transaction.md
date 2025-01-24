@@ -2,3 +2,6 @@
 
 ## Current Scenario Information:
 - FFA True Vanilla
+
+# CURRENT WANTED BOUNTIES:
+- N/A
