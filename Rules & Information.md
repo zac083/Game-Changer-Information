@@ -63,6 +63,12 @@ Hello there all! Welcome to the Game Changer's Series 4: Bounties! Here are you 
   - Increasing or Decreasing Teamsize Rotation by 1.
   - Change Version to either 1.8 or 1.20.
 
+### Scenario Information:
+- Some Scenarios have expiration game lengths to keep each game unique and fresh. For a list of all the public scenarios on ArcticMC [click here](https://github.com/ArcticMC/Scenarios/blob/main/descriptions.md)
+- Low Impact Scenarios will last 5 games
+- High Impact Scenarios will last 3 games
+- Admin Scenarios will last only 1 game.
+
 ## Winning or Top Fragging in a Team Setting:
 
 - In a team setting, whoever is left alive at the end will get a pick.
