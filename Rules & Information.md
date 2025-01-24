@@ -77,6 +77,8 @@ Hello there all! Welcome to the Game Changer's Series 4: Bounties! Here are you 
   - Fourth pick goes to evaded bounties (If the wanted player achieved their bounty requirements)
 
 
+## Last Note:
+
 
 One last thing in mind, PLEASE BE REASONABLE WITH YOUR DECISIONS! I will reject your addition if it is reasonably unfit/provides a bad experience towards the community! Please think before you choose!
 
