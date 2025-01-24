@@ -1,5 +1,5 @@
 
-**Zac's Game Changer Rules:** 
+### Zac's Game Changer Rules: 
 
 Hello there all! Welcome to the Game Changer's sheet! Here are the rules for the series:
 
