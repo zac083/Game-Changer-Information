@@ -1,6 +1,6 @@
-**NA CONFIG FOR ZAC'S GAME CHANGER SERIES**
+# NA CONFIG FOR ZAC'S GAME CHANGER SERIES
 
-**CONFIG IF GAME GETS SET TO 1.20**
+## CONFIG IF GAME GETS SET TO 1.20
 
 -Terrain: Pre-1.18
 
@@ -23,9 +23,9 @@
 -Scatter Type: Dragon
 
 
-**CONFIG CATEGORY FOR MY GAMES AT THIS MOMENT**
+## CONFIG CATEGORY FOR MY GAMES AT THIS MOMENT
 
-**Healing**
+### Healing
 
 -Starter Absorption: 10 hearts
 
@@ -35,7 +35,7 @@
 
 -Notch Apples: Disabled
 
-**Nether**
+### Nether
 
 -Nether: Enabled 
 
@@ -49,7 +49,7 @@
 
 -Quartz Exp: Vanilla
 
-**Rates:**
+### Rates:
 
 -Apple Rates: 2.5%
 
@@ -63,7 +63,7 @@
 
 -Ores appear in caves only: Enabled
 
-**Horses:** 
+### Horses: 
 
 -Horse Riding: Disabled
 
@@ -73,7 +73,7 @@
 
 -Saddle Drops: Enabled
 
-**Misc:** 
+### Misc: 
 
 -Bookshelves: Disabled
 
@@ -93,7 +93,8 @@
 
 -TNT Minecrafts: Disabled
 
-Border: 
+### Border: 
+
 -Border Type: Teleporting
 
 -Final Border size: 100x100
