@@ -1,5 +1,5 @@
 
-## Zac's Game Changer Rules: 
+# Zac's Game Changer Rules: 
 
 Hello there all! Welcome to the Game Changer's Series 4: Bounties! Here are you will find all the information regarding the rules of this reformed series!
 
