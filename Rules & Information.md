@@ -1,11 +1,11 @@
 
-### Zac's Game Changer Rules: 
+## Zac's Game Changer Rules: 
 
-Hello there all! Welcome to the Game Changer's sheet! Here are the rules for the series:
+Hello there all! Welcome to the Game Changer's Series 4: Bounties! Here are you will find all the information regarding the rules of this reformed series!
 
 - I start a game hosting an FFA CutClean, Bleeding Sweets, Hastey Boys, Timber game as a start for BOTH EU and NA Servers. 
-- NA Game will happen every Saturday at 00:00 UTC (8:00 PM Eastern Time)
-- EU Game will happen every Sunday at 17:00 UTC* (12:00 PM Eastern). The Asterisks represents that it may not occur depending on if I have a 5k race day during this time period. 
+- NA Game will happen every Saturday at 00:00 UTC (7:00 PM Eastern Time)
+- EU Game will happen every Sunday at 17:00 UTC* (12:00 PM Eastern). The Asterisks represents that it may not occur depending on if I have a Race on that day during this time period. 
 
 When a player wins a game and/or gets top kills, they get to choose one of these options for the next game. You have until Wednesday at 23:00 UTC time to submit any changes whether through my discord messages or when the game finishes.
 
