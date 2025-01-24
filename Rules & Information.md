@@ -1,7 +1,7 @@
 
 # Zac's Game Changer Rules: 
 
-Hello there all! Welcome to the Game Changer's Series 4: Bounties! Here are you will find all the information regarding the rules of this reformed series! For viewing the config of each respective server click [Here for EU]() and [Here for NA]()
+Hello there all! Welcome to the Game Changer's Series 4: Bounties! Here are you will find all the information regarding the rules of this reformed series! For viewing the config of each respective server click [Here for EU]() and [Here for NA](https://github.com/zac083/Game-Changer-Information/blob/main/NA%20Config.md)
 
 - I start a game hosting an FFA True Vanila game as a start for BOTH EU and NA Servers. 
 - NA Game will happen every Saturday at 00:00 UTC (7:00 PM Eastern Time)
