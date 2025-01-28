@@ -1,4 +1,4 @@
-# NA CONFIG FOR ZAC'S GAME CHANGER SERIES
+# NA CONFIG FOR ZAC'S GAME CHANGER SERIES FOR ALL GAMES WITH EXCEPTION OF TRUE VANILLA
 
 ## CONFIG IF GAME GETS SET TO 1.20
 
@@ -27,23 +27,23 @@
 
 ### Healing
 
--Starter Absorption: 10 hearts
+-Starter Absorption: 0 Hearts
 
 -Heads: Enabled, Heals 4 hearts, stackable
 
 -Absorption: Enabled, 2 hearts
 
--Notch Apples: Disabled
+-Notch Apples: Enabled
 
 ### Nether
 
 -Nether: Enabled 
 
--Strength Pots: Disabled
+-Strength Pots: Enabled
 
 -Tier 2 pots: Disabled
 
--Trapping Portal: Disabled
+-Trapping Portal: Enabled
 
 -Camping Portal: Enabled
 
@@ -51,21 +51,21 @@
 
 ### Rates:
 
--Apple Rates: 2.5%
+-Apple Rates: 2%
 
 -Flint Rates: 75%
 
--Cave Rates: 2x
+-Cave Rates: Vanilla
 
--Diamond Rates: 35% Removed
+-Diamond Rates: 25% Removed
 
--Gold Rates: 35% Removed
+-Gold Rates: 25% Removed
 
 -Ores appear in caves only: Enabled
 
 ### Horses: 
 
--Horse Riding: Disabled
+-Horse Riding: Enabled
 
 -Horse Armor: Enabled
 
@@ -85,15 +85,17 @@
 
 -Double Arrows: Disabled
 
--Supply Crates: Enabled
+-Supply Crates: Disabled
 
--Split Enchants: Disabled
+-Split Enchants: Enabled
 
 -Cross Teaming: Disabled
 
 -TNT Minecrafts: Disabled
 
 ### Border: 
+
+- Border Size: 3000x3000 (1500x1500 Radius)
 
 -Border Type: Teleporting
 
