@@ -1,4 +1,4 @@
-# EU CONFIG FOR ZAC'S GAME CHANGER SERIES
+# EU CONFIG FOR ZAC'S GAME CHANGER SERIES FOR ALL GAMES EXCEPT TRUE VANILLA
 
 ## CONFIG IF GAME GETS SET TO 1.20
 
@@ -27,23 +27,23 @@
 
 ### Healing
 
--Starter Absorption: 4 hearts
+-Starter Absorption: 0 Hearts
 
 -Heads: Enabled, Heals 4 hearts, stackable
 
 -Absorption: Enabled, 2 Hearts
 
--Notch Apples: Disabled
+-Notch Apples: Enabled
 
 ### Nether
 
--Nether: Disabled (UNTIL SUPERHEROES IS DISABLED)
+-Nether: Enabled
 
--Strength Pots: Disabled
+-Strength Pots: Enabled
 
 -Tier 2 pots: Disabled
 
--Trapping Portal: Disabled
+-Trapping Portal: Enabled
 
 -Camping Portal: Enabled
 
@@ -51,15 +51,15 @@
 
 ### Rates:
 
--Apple Rates: 2.5%
+-Apple Rates: 2%
 
 -Flint Rates: 75%
 
--Cave Rates: 2x
+-Cave Rates: Vanilla
 
--Diamond Rates: 20% Removed
+-Diamond Rates: 25% Removed
 
--Gold Rates: 30% Removed
+-Gold Rates: 25% Removed
 
 -Ores appear in caves only: Enabled
 
@@ -67,7 +67,7 @@
 
 -Horse Riding: Enabled
 
--Horse Armor: Disabled
+-Horse Armor: Enabled
 
 -Horse Healing: Disabled
 
@@ -75,9 +75,11 @@
 
 ### Misc: 
 
+- Bow Nerf: Disabled
+
 -Bookshelves: Disabled
 
--Fire Aspect: Disabled
+-Fire Aspect: Enabled, but only on enchanted books
 
 -Flame: Enabled, but only on enchanted books
 
@@ -85,15 +87,17 @@
 
 -Double Arrows: Disabled
 
--Supply Crates: Enabled, 2 per quadrant
+-Supply Crates: Disabled
 
--Split Enchants: Disabled
+-Split Enchants: Enabled
 
 -Cross Teaming: Disabled
 
 -TNT Minecrafts: Disabled
 
 ### Border: 
+
+- Border Size: 2500x2500 (1250x1250 Radius)
 
 -Border Type: Teleporting
 
