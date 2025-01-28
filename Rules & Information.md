@@ -27,7 +27,7 @@ For information regarding current transaction, scenario and bounties, for each r
 
 ## Bounties!
 
--  To make the games a little bit more intesne, players that have previously won the game will have a bounty on their heads!
+-  To make the games a little bit more intense, players that have previously won the game will have a bounty on their heads!
 -  At the beginning of the series, I will randomly pick 1 player to have a bounty of a free pick to change my game! In order for the bounty to go away, they must kill 2 players and survive until Meetup!
 -  If you have won the game before, you will get a bounty of a free pick and same requirements as stated above!
 -  If you win 2 games in a row on the same region, you have a Cash Bounty! You're now wanted with a free pick for my game, but also a bounty of $20 USD on your head. For this bounty to go away, you must kill 5 players and survive until Meetup!
