@@ -67,11 +67,17 @@ For information regarding current transaction, scenario and bounties, for each r
   - Increasing or Decreasing Teamsize Rotation by 1.
   - Change Version to either 1.8 or 1.20.
 
-### Scenario Information:
+## Scenario Information:
 - Some Scenarios have expiration game lengths to keep each game unique and fresh. For a list of all the public scenarios on ArcticMC [click here](https://github.com/ArcticMC/Scenarios/blob/main/descriptions.md)
 - Low Impact Scenarios will last 5 games
 - High Impact Scenarios will last 3 games
 - Admin Scenarios will last only 1 game.
+
+### Team Creation Scenario Information:
+- For scenarios such as Auction, Captain, Mystery Teams, there are seperate rules and how many times it will be hosted.
+- Cross Teaming in all the creation based scenarios, even if it is on in Chosen Team games, will be disabled in these modes.
+- For Auction games, they all modes will be labeled as scenarios, however it will be hosted only once.
+- Mystery Teams can be hosted up to three times. The same goes for captain games.
 
 ## Winning or Top Fragging in a Team Setting:
 
