@@ -75,6 +75,8 @@
 
 ### Misc: 
 
+- Bow Nerf: Disabled
+
 -Bookshelves: Disabled
 
 -Fire Aspect: Enabled, but only on enchanted books
@@ -95,7 +97,7 @@
 
 ### Border: 
 
-- Border Size: 3000x3000 (1500x1500 Radius)
+- Border Size: 2500x2500 (1250x1250 Radius)
 
 -Border Type: Teleporting
 
