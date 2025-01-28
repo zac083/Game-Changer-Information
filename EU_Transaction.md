@@ -1,4 +1,6 @@
-# START OF EU TRANSACTION
+# START OF EU TRANSACTION FOR GAME CHANGERS:
+
+1)
 
 ### Scenario Information:
 - FFA True Vanilla
