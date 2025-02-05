@@ -1,10 +1,16 @@
 # START OF EU TRANSACTION FOR GAME CHANGERS:
 
-1)
+1) 
 
-### Scenario Information:
-- FFA True Vanilla
+## Current Scenario Information:
 
+### Team Rotation Round:
 
-# CURRENTLY WANTED BOUNTIES:
+- **FFA** -> To2 -> To3 -> To4
+
+### Active Scenarios: 0
+
+- True Vanilla
+
+# CURRENT WANTED BOUNTIES:
 - N/A
