@@ -10,7 +10,7 @@ For information regarding current transaction, scenario and bounties, for each r
 - I start a game hosting an FFA True Vanila game as a start for BOTH EU and NA Servers. 
 - NA Game will happen every Saturday at 00:00 UTC (7:00 PM Eastern Time)
 - EU Game will happen every Sunday at 17:00 UTC* (12:00 PM Eastern). The Asterisks represents that it may not occur depending on if I have a Race on that day during this time period.
-- For contact on discord regarding questions or if you won/top fragged in one of my games my discord IGN is zac083. If you're in the Arctic server, my DMs are open, so no need to friend me, just send the message.
+- For contact on discord regarding questions or if you won/top fragged in one of my games my discord IGN is zac083. If you're in the Arctic server, my DMs are open. So no need to friend me, just send the message.
 
 ## What is Game Changers?
 
