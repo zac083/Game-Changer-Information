@@ -29,10 +29,10 @@ For information regarding current transaction, scenario and bounties, for each r
 
 -  To make the games a little bit more intense, players that have previously won the game will have a bounty on their heads!
 -  At the beginning of the series, I will randomly pick 1 player to have a bounty of a free pick to change my game! In order for the bounty to go away, they must kill 2 players and survive until Meetup!
--  If you have won the game before, you will get a bounty of a free pick and same requirements as stated above!
+-  If you win the game during series 4, you will get a bounty of a free pick and same requirements as stated above!
 -  If you win 2 games in a row on the same region, you have a Cash Bounty! You're now wanted with a free pick for my game, but also a bounty of $20 USD on your head. For this bounty to go away, you must kill 5 players and survive until Meetup!
--  If the wanted player did not meet the requirements before Meetup arrives, it will not go away. 
--  If you kill a player with a bounty, you will claim that bounty for yourself!
+-  If the wanted player did not meet the requirements before Meetup arrives, it will not go away. They must win the game in order to claim their own bounty now!
+-  If you kill a player with a bounty, you will claim that bounty for yourself! No one else will be able to claim it.
 -  If you kill a player, who did have a bounty but met the requirements stated above, you will get nothing.
 
 ## Bounties in a Team Settings!
@@ -46,15 +46,16 @@ For information regarding current transaction, scenario and bounties, for each r
 ## BOUNTY RULES AND INFORMATION:
 
 - In order to have a bounty, you must have the same IGN or same Nicked IGN. Being on a different IGN will not count, thus unvalidating your streak.
-- Sacrificing is NOT PERMITTED. If I do see a sacrifice being committed for the bounty to be claimed for each of their gains, you will both be banned for Sacrificing and no bounty will be claimed.
-- Team Killing the player with a bounty will not earn you the bounty whatsoever, it will just be eliminated.
+- Sacrificing is NOT PERMITTED. If I do see a sacrifice being committed for the bounty to be claimed for each of their gains, you will both be banned for Sacrificing and the bounty will be voided.
+- Team Killing the player with a bounty will not earn you the bounty whatsoever, it will just be voided.
 - NA and EU Bounties are serperate! If you win a game on NA then EU, that does not validate a 2 game win streak!
 
 ## Winning or Top Fragging the Game
 
-- Congrats on achieving one or both of these feats! You now have the option to change some settings of my games!
+- Congrats on achieving one or all of these feats! You now have the option to change some settings of my games!
 - You are allowed to pick one option based if you top fragged or won. You get a second pick if you did achieve both.
 - If there is a tie for the most kills, whoever achieve the most kills first will get the pick.
+- You have until Wednesday at 23 UTC to claim the pick, if you do not choose by then, your pick you won is voided.
 
 ### OPTIONS FOR CHANGING GAME:
   - Add 3 Scenarios
@@ -88,8 +89,8 @@ For information regarding current transaction, scenario and bounties, for each r
 
 ### The order of picks will goes as follows:
   - First pick goes to winning the game.
-  - Second pick goes to top fragging the game.
-  - Third pick goes to achieved bounties (Killing the wanted player)
+  - Second pick goes to achieved bounties (Killing the wanted player)
+  - Third pick will be the individual with most frags.
   - Fourth pick goes to evaded bounties (If the wanted player achieved their bounty requirements)
 
 
