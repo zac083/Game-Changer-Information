@@ -2,106 +2,106 @@
 
 ## CONFIG IF GAME GETS SET TO 1.20
 
--Terrain: Pre-1.18
+- Terrain: Pre-1.18
 
--Cave Terrain: Pre-1.18 (Lowest y level is 0)
+- Cave Terrain: Pre-1.18 (Lowest y level is 0)
 
--Combat Type: 1.9+
+- Combat Type: 1.9+
 
--End Crystal Crafting: Disabled
+- End Crystal Crafting: Disabled
 
--Trident Crafting: Disabled
+- Trident Crafting: Disabled
 
--Totem Crafting: Disabled
+- Totem Crafting: Disabled
 
--Elytra Crafting: Disabled
+- Elytra Crafting: Disabled
 
--Firework Crossbows: Disabled
+- Firework Crossbows: Disabled
 
--Cobwebs: Max of 8
+- Cobwebs: Max of 8
 
--Scatter Type: Dragon
+- Scatter Type: Dragon
 
 
 ## CONFIG CATEGORY FOR MY GAMES AT THIS MOMENT
 
 ### Healing
 
--Starter Absorption: 0 Hearts
+- Starter Absorption: 0 Hearts
 
--Heads: Enabled, Heals 4 hearts, stackable
+- Heads: Enabled, Heals 4 hearts, stackable
 
--Absorption: Enabled, 2 hearts
+- Absorption: Enabled, 2 hearts
 
--Notch Apples: Enabled
+- Notch Apples: Enabled
 
 ### Nether
 
--Nether: Enabled 
+- Nether: Enabled 
 
--Strength Pots: Enabled
+- Strength Pots: Enabled
 
--Tier 2 pots: Disabled
+- Tier 2 pots: Disabled
 
--Trapping Portal: Enabled
+- Trapping Portal: Enabled
 
--Camping Portal: Enabled
+- Camping Portal: Enabled
 
--Quartz Exp: Vanilla
+- Quartz Exp: Vanilla
 
 ### Rates:
 
--Apple Rates: 2%
+- Apple Rates: 2%
 
--Flint Rates: 75%
+- Flint Rates: 75%
 
--Cave Rates: Vanilla
+- Cave Rates: Vanilla
 
--Diamond Rates: 25% Removed
+- Diamond Rates: 25% Removed
 
--Gold Rates: 25% Removed
+- Gold Rates: 25% Removed
 
--Ores appear in caves only: Enabled
+- Ores appear in caves only: Enabled
 
 ### Horses: 
 
--Horse Riding: Enabled
+- Horse Riding: Enabled
 
--Horse Armor: Enabled
+- Horse Armor: Enabled
 
--Horse Healing: Disabled
+- Horse Healing: Disabled
 
--Saddle Drops: Enabled
+- Saddle Drops: Enabled
 
 ### Misc: 
 
 - Bow Nerf: Disabled
 
--Bookshelves: Disabled
+- Bookshelves: Disabled
 
--Fire Aspect: Enabled, but only on enchanted books
+- Fire Aspect: Enabled, but only on enchanted books
 
--Flame: Enabled, but only on enchanted books
+- Flame: Enabled, but only on enchanted books
 
--Pearl Damage: 1 Heart
+- Pearl Damage: 1 Heart
 
--Double Arrows: Disabled
+- Double Arrows: Disabled
 
--Supply Crates: Disabled
+- Supply Crates: Disabled
 
--Split Enchants: Enabled
+- Split Enchants: Enabled
 
--Cross Teaming: Disabled
+- Cross Teaming: Disabled
 
--TNT Minecrafts: Disabled
+- TNT Minecrafts: Disabled
 
 ### Border: 
 
 - Border Size: 2500x2500 (1250x1250 Radius)
 
--Border Type: Teleporting
+- Border Type: Teleporting
 
--Final Border size: 100x100
+- Final Border size: 200x200 (Diameter)
 
--Meet-up Block Decay: Enabled
+- Meet-up Block Decay: Enabled
 
