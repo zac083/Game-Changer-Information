@@ -74,6 +74,13 @@ For information regarding current transaction, scenario and bounties, for each r
 - High Impact Scenarios will last 3 games
 - Admin Scenarios will last only 1 game.
 
+## Scenario Time Length:
+- Based on what scenarios are currently enabled, the length of the game will be changed.
+- If there are 0 scenarios enabled, meaning True Vanilla, the game length will be 120 minutes until Meetup.
+- If there is no CutClean, Fast Smelting, or Craft Clean, the game will be 60 minutes until Meetup.
+- If there are at least 1 scenario mentioned from above, the game wll be 45 minutes until Meetup.
+- If there is Rush, regardless of scenarios, the game will be 30 minutes until Meetup
+
 ### Team Creation Scenario Information:
 - For scenarios such as Auction, Captain, Mystery Teams, there are seperate rules and how many times it will be hosted.
 - Cross Teaming in all the creation based scenarios, even if it is on in Chosen Team games, will be disabled in these modes.
