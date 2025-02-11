@@ -6,7 +6,11 @@
 
 ### Team Rotation Round:
 
-- **FFA** -> To2 -> To3 -> To4
+#### FFA 
+
+#### Next in Rotation:
+
+cTo2 -> cTo3 -> cTo4
 
 ### Active Scenarios: 0
 
