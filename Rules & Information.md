@@ -55,7 +55,12 @@ For information regarding current transaction, scenario and bounties, for each r
 - Congrats on achieving one or all of these feats! You now have the option to change some settings of my games!
 - You are allowed to pick one option based if you top fragged or won. You get a second pick if you did achieve both.
 - If there is a tie for the most kills, whoever achieve the most kills first will get the pick.
-- You have until Wednesday at 23 UTC to claim the pick, if you do not choose by then, your pick you won is voided.
+- You have until Wednesday at 23 UTC to claim the pick, if you do not choose by then, your pick you earned is voided.
+
+## Winning or Top Fragging in a Team Setting:
+
+- In a team setting, whoever is left alive at the end will get a pick.
+- Whoever has the top frag will get their pick individually.
 
 ### OPTIONS FOR CHANGING GAME:
   - Add 3 Scenarios
@@ -85,12 +90,7 @@ For information regarding current transaction, scenario and bounties, for each r
 - For scenarios such as Auction, Captain, Mystery Teams, there are seperate rules and how many times it will be hosted.
 - Cross Teaming in all the creation based scenarios, even if it is on in Chosen Team games, will be disabled in these modes.
 - For Auction games, they all modes will be labeled as scenarios, however it will be hosted only once.
-- Mystery Teams can be hosted up to three times. The same goes for captain games.
-
-## Winning or Top Fragging in a Team Setting:
-
-- In a team setting, whoever is left alive at the end will get a pick.
-- Whoever has the top frag will get their pick individually.
+- Mystery Teams, captains, and Picked Teams can be hosted up to 3 times in a row.
 
 ## Order of Picks!
 
