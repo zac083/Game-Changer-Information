@@ -6,7 +6,7 @@
 
 ### Team Rotation Round:
 
-- ####### FFA -> 
+###### FFA 
 
 #### Next in Rotation:
 
