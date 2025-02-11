@@ -6,7 +6,11 @@
 
 ### Team Rotation Round:
 
-- <span style="color: green;">FFA</span> -> <span style="color: red;">To2</span> -> <span style="color: red;">To3</span> -> <span style="color: red;">To4</span> -> 
+- ####### FFA -> 
+
+#### Next in Rotation:
+
+cTo2 -> cTo3 -> cTo4
 
 
 ### Active Scenarios: 0
