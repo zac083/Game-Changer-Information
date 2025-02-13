@@ -41,6 +41,8 @@
 
 - Strength Pots: Enabled
 
+- Splash Potions: Disabled
+
 - Tier 2 pots: Disabled
 
 - Trapping Portal: Enabled
