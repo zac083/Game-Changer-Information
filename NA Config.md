@@ -41,6 +41,8 @@
 
 - Strength Pots: Enabled
 
+- Splash Potions: Disabled
+
 - Tier 2 pots: Disabled
 
 - Trapping Portal: Enabled
@@ -61,7 +63,7 @@
 
 - Gold Rates: 25% Removed
 
-- Ores appear in caves only: Enabled
+- Ores appear in caves only: Disabled
 
 ### Horses: 
 
