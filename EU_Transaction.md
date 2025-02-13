@@ -14,7 +14,7 @@ cTo2 -> cTo3 -> cTo4
 
 ### Active Scenarios: 0
 
-- True Vanilla
+- Vanilla+
 
 # CURRENT WANTED BOUNTIES:
 - N/A
