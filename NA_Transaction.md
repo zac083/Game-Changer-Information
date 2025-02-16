@@ -1,16 +1,19 @@
 # START OF NA TRANSACTION FOR GAME CHANGERS:
 
-1) 
+### Game 1:
+  1) 28912048tony9212 ---> Nether Disabled, God Apples Disabled, Fire Aspect Disabled, Horses 1 Per Team
+  2) willif --->
+  3) GIBBYONCRACK --->
 
 ## Current Scenario Information:
 
 ### Team Rotation Round:
 
-#### FFA 
+#### cTo2 
 
 #### Next in Rotation:
 
-cTo2 -> cTo3 -> cTo4
+cTo3 -> cTo4 -> FFA
 
 
 ### Active Scenarios: 0
@@ -18,4 +21,4 @@ cTo2 -> cTo3 -> cTo4
 - Vanilla+
 
 # CURRENT WANTED BOUNTIES:
-- N/A
+- 28912048tony9212 (Free Pick Bounty)
