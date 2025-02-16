@@ -33,11 +33,11 @@
 
 - Absorption: Enabled, 2 hearts
 
-- Notch Apples: Enabled
+- Notch Apples: Disabled
 
 ### Nether
 
-- Nether: Enabled 
+- Nether: Disabled
 
 - Strength Pots: Enabled
 
@@ -67,7 +67,7 @@
 
 ### Horses: 
 
-- Horse Riding: Enabled
+- Horse Riding: 1 Per Team
 
 - Horse Armor: Enabled
 
@@ -81,7 +81,7 @@
 
 - Bookshelves: Disabled
 
-- Fire Aspect: Enabled, but only on enchanted books
+- Fire Aspect: Disabled
 
 - Flame: Enabled, but only on enchanted books
 
