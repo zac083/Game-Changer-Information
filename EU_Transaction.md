@@ -15,7 +15,7 @@
 
 cTo3 -> cTo4 -> FFA
 
-### Active Scenarios: 0
+### Active Scenarios: 3
 
 - CraftClean (5), Select Fire (1), Tunnels (5)
 
