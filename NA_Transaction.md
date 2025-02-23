@@ -9,16 +9,18 @@
 
 ### Team Rotation Round:
 
-#### cTo2 
+#### cTo3
 
 #### Next in Rotation:
 
-cTo3 -> cTo4 -> FFA
+cTo4 -> FFA -> cTo2
 
 
 ### Active Scenarios: 6
 
-- CutClean (5), Double Dates (5), Fast Getaway (5), Genie (5), Hastey Boys (5), Timber (5)
+- CutClean (4), Double Dates (4, Disabled To2 Only), Fast Getaway (4), Genie (4), Hastey Boys (4), Timber (4)
 
 # CURRENT WANTED BOUNTIES:
-- 28912048tony9212 (Free Pick Bounty)
+- _ (Free Pick Bounty)
+- 8 (Free Pick Bounty)
+- onstepa (Free Pick Bounty)
