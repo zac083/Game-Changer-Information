@@ -31,7 +31,7 @@
 
 - Heads: Enabled, Heals 4 hearts, stackable
 
-- Absorption: Enabled, 2 hearts
+- Absorption: Disabled
 
 - Notch Apples: Disabled
 
@@ -57,11 +57,11 @@
 
 - Flint Rates: 75%
 
-- Cave Rates: Vanilla
+- Cave Rates: 1.5x
 
-- Diamond Rates: 25% Removed
+- Diamond Rates: 35% Removed
 
-- Gold Rates: 25% Removed
+- Gold Rates: 35% Removed
 
 - Ores appear in caves only: Disabled
 
