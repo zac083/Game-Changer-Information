@@ -33,11 +33,11 @@
 
 - Absorption: Enabled, 2 Hearts
 
-- Notch Apples: Enabled
+- Notch Apples: Disabled
 
 ### Nether
 
-- Nether: Enabled
+- Nether: Disabled
 
 - Strength Pots: Enabled
 
@@ -59,9 +59,9 @@
 
 - Cave Rates: Vanilla
 
-- Diamond Rates: 25% Removed
+- Diamond Rates: Vanilla
 
-- Gold Rates: 25% Removed
+- Gold Rates: Vanilla
 
 - Ores appear in caves only: Disabled
 
