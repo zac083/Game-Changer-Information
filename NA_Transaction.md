@@ -5,6 +5,9 @@
   2) willif ---> Add CutClean, Fast Getaway, Genie
   3) GIBBYONCRACK ---> Add Hastey Boys, Timber, Double Dates
 
+### Game 2: 
+_ ---> Absorption Disabled, Gold rates 35% removed, Diamond rates 35% removed, Cave Rates 1.5x
+
 ## Current Scenario Information:
 
 ### Team Rotation Round:
