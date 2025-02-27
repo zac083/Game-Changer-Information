@@ -7,6 +7,7 @@
 
 ### Game 2: 
 _ ---> Absorption Disabled, Gold rates 35% removed, Diamond rates 35% removed, Cave Rates 1.5x
+urdledcay ---> Add Battle Sirens, OP Lootcrates, Team Health
 
 ## Current Scenario Information:
 
@@ -21,7 +22,7 @@ cTo4 -> FFA -> cTo2
 
 ### Active Scenarios: 6
 
-- CutClean (4), Double Dates (4, Disabled To2 Only), Fast Getaway (4), Genie (4), Hastey Boys (4), Timber (4)
+- CutClean (4), Battle Siren (5), Double Dates (4, Disabled To2 Only), Fast Getaway (4), Genie (4), Hastey Boys (4), OP Lootcrates (5), Team Health (5), Timber (4)
 
 # CURRENT WANTED BOUNTIES:
 - _ (Free Pick Bounty)
