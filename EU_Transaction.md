@@ -21,7 +21,7 @@
 
  cTo4 -> FFA -> cTo2
 
-### Active Scenarios: 3
+### Active Scenarios: 5
 
 - CraftClean (4), Fireless (5), Hastey Boys (5), Quiver (5), Timber (5)
 
