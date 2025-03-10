@@ -46,6 +46,7 @@ For information regarding current transaction, scenario and bounties, for each r
 ## BOUNTY RULES AND INFORMATION:
 
 - In order to have a bounty, you must have the same IGN or same Nicked IGN. Being on a different IGN will not count, thus unvalidating your streak.
+- For upgrading your bounty, you must be alive and win the game. Being dead and winning the game does not count, thus invalidating the 2 game win streak criteria. 
 - Sacrificing is NOT PERMITTED. If I do see a sacrifice being committed for the bounty to be claimed for each of their gains, you will both be banned for Sacrificing and the bounty will be voided.
 - Team Killing the player with a bounty will not earn you the bounty whatsoever, it will just be voided.
 - NA and EU Bounties are serperate! If you win a game on NA then EU, that does not validate a 2 game win streak!
