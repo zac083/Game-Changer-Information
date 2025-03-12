@@ -85,6 +85,8 @@
 
 - Flame: Enabled, but only on enchanted books
 
+- Redstone Experience Drops: Reduced
+
 - Pearl Damage: 1 Heart
 
 - Double Arrows: Disabled
