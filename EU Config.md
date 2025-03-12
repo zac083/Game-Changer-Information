@@ -31,7 +31,7 @@
 
 - Heads: Enabled, Heals 4 hearts, stackable
 
-- Absorption: Enabled, 2 Hearts
+- Absorption: Enabled, 1 Heart
 
 - Notch Apples: Disabled
 
@@ -57,7 +57,7 @@
 
 - Flint Rates: 75%
 
-- Cave Rates: Vanilla
+- Cave Rates: 6x
 
 - Diamond Rates: Vanilla
 
@@ -67,7 +67,7 @@
 
 ### Horses: 
 
-- Horse Riding: Enabled
+- Horse Riding: Disabled
 
 - Horse Armor: Enabled
 
@@ -84,6 +84,8 @@
 - Fire Aspect: Enabled, but only on enchanted books
 
 - Flame: Enabled, but only on enchanted books
+
+- Knockback Enchantment: Disabled
 
 - Pearl Damage: 1 Heart
 
