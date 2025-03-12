@@ -25,7 +25,7 @@
 
  FFA -> cTo2 -> cTo3
 
-### Active Scenarios: 5
+### Active Scenarios: 8
 
 - CraftClean (3), Fireless (4), Hastey Boys (4), Investments (5), No Nametags (5), Quiver (4), Timber (4), Tunnels (Permanent)
 
