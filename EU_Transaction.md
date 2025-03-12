@@ -6,24 +6,28 @@
   3) IhAVEpL0TaRMOUR ---> Remove Bowfighters, add Tunnels
 
 ### Game 2:
+  1) IhAVEpL0TaRMOUR ---> Added Quiver, Hastey Boys, and Fireless
+  2) XxHeroic_HomexX ---> Diamond Rates Vanilla, Gold Rates Vanilla, God Apples Disabled, Nether Disabled
+  3) BleedingSweets ---> Remove Tunnels, Add Timber
 
-1) IhAVEpL0TaRMOUR ---> Added Quiver, Hastey Boys, and Fireless
-2) XxHeroic_HomexX ---> Diamond Rates Vanilla, Gold Rates Vanilla, God Apples Disabled, Nether Disabled
-3) BleedingSweets ---> Remove Tunnels, Add Timber
+### Game 3:
+  1) Fearx_ ---> Add Investments, No Nametags, and Tunnels
+  2) IhAVEpL0TaRMOUR ---> 1 Heart Absorption, Horses Off, 6x Cave Rates, Knockback Enchants Disabled. Tunnels Permanent Scenario
+  
 
 ## Current Scenario Information:
 
 ### Team Rotation Round:
 
-#### cTo3
+#### cTo4
 
 #### Next in Rotation:
 
- cTo4 -> FFA -> cTo2
+ FFA -> cTo2 -> cTo3
 
 ### Active Scenarios: 5
 
-- CraftClean (4), Fireless (5), Hastey Boys (5), Quiver (5), Timber (5)
+- CraftClean (3), Fireless (4), Hastey Boys (4), Investments (5), No Nametags (5), Quiver (4), Timber (4), Tunnels (Permanent)
 
 ### Permanent Ban Scenarios:
 
@@ -32,5 +36,5 @@
 
 
 # CURRENT WANTED BOUNTIES:
-- IhAVEpL0TaRMOUR (Pick Bounty)
-- XxHeroic_HomexX (Pick Bounty)
+- Fearx_ (Pick Bounty)
+
