@@ -14,22 +14,28 @@
   2) 8 ---> Reduced Restone Experience. Add Golden Retriever & Siphon 
   3) _ ---> Remove Team Health, OP Lootcrates, & Genie. Replace Battle Siren with Parafusion. CutClean Permanent Scenario
 
+### Game 4: 
+  1) Bleeding Sweets ---> Changed Max Teamsize to To5.
+  2) DoubleHealth ---> Add Team Swap, Gapple Roulette, Lootcrates
+  3) HUQNTER ---> Changed Absorption to 1 heart
+  4) SOAKLE ---> Remove Parafusion & Gapple Roulette, add Tunnels
+
 ## Current Scenario Information:
 
 ### Team Rotation Round:
 
-#### cTo4
+#### cTo5
 
 #### Next in Rotation:
 
-FFA -> cTo2 -> cTo3
+FFA -> cTo2 -> cTo3 -> cTo4
 
 
 ### Active Scenarios: 10
 
-- CutClean (Permanent), Double Dates (4, Disabled To2 Only), Golden Retriever (5), Fast Getaway (3), Hastey Boys (3), Kings (5), Parafusion (5), Siphon (5), Timber (3), Timebomb (5), Underground Parallel (1)
+- CutClean (Permanent), Double Dates (4, Disabled To2 Only), Golden Retriever (4), Fast Getaway (2), Hastey Boys (2), Kings (4), Lootcrates (5), Siphon (4), Timber (2), Timebomb (4), Team Swap (5)
 
 # CURRENT WANTED BOUNTIES:
-- _ (Cash Bounty)
-- 8 (Cash Bounty)
-- Soakle (Free Pick Bounty)
+- BleedingSweets (Free Pick Bounty)
+- DoubleHealth (Free Pick Bounty)
+- HUQNTER (Free Pick Bounty)
