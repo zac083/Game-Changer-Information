@@ -31,7 +31,7 @@
 FFA -> cTo2 -> cTo3 -> cTo4
 
 
-### Active Scenarios: 10
+### Active Scenarios: 11
 
 - CutClean (Permanent), Double Dates (4, Disabled To2 Only), Golden Retriever (4), Fast Getaway (2), Hastey Boys (2), Kings (4), Lootcrates (5), Siphon (4), Timber (2), Timebomb (4), Team Swap (3)
 
