@@ -64,14 +64,14 @@ For information regarding current transaction, scenario and bounties, for each r
 - Whoever has the top frag will get their pick individually.
 
 ### OPTIONS FOR CHANGING GAME:
-  - Add 3 Scenarios
-  - Remove 3 Scenarios
+  - Add up to 3 Scenarios
+  - Remove up to 3 Scenarios
   - Scenario Replacement (Choose 1 scenario to remove then add 1 scenario of your own)
   - Permanent Game Scenario (Choose 1 that is currently active to be permnanent for the next future games. THIS CANNOT BE TRUE VANILLA)
   - Pernament Scenario Ban (Choose 1 Scenario that is NOT currently active to never be chosen by anyone.)
   - Undoing either a Pernament Scenario ban or Permanent Game Scenario
-  - Changing 4 Config Options
-  - Increasing or Decreasing Teamsize Rotation by 1.
+  - Changing up to 4 Config Options
+  - Increasing or Decreasing Max Teamsize Rotation by 1.
   - Change Version to either 1.8 or 1.20.
 
 ## Scenario Information:
