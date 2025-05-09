@@ -13,21 +13,25 @@
 ### Game 3:
   1) Fearx_ ---> Add Investments, No Nametags, and Tunnels
   2) IhAVEpL0TaRMOUR ---> 1 Heart Absorption, Horses Off, 6x Cave Rates, Knockback Enchants Disabled. Tunnels Permanent Scenario
+
+### Game 4:
+1) NoobMoment123 ---> Remove Investments add Triple Iron & Add Siphon
+2) ILoveLowFills ---> Absorption 2 hearts, Fire aspect and Flame disabled, Supply crates enabled 2 per quad & Add Slender Sniper, Fortune Boys
   
 
 ## Current Scenario Information:
 
 ### Team Rotation Round:
 
-#### cTo4
+#### FFA
 
 #### Next in Rotation:
 
- FFA -> cTo2 -> cTo3
+ cTo2 -> cTo3 -> cTo4
 
-### Active Scenarios: 8
+### Active Scenarios: 10
 
-- CraftClean (3), Fireless (4), Hastey Boys (4), Investments (5), No Nametags (5), Quiver (4), Timber (4), Tunnels (Permanent)
+- CraftClean (2), Fireless (3), Fortune Boys (5), Hastey Boys (3), No Nametags (4), Siphon (5), Slender Sniper (5), Timber (3), Triple Iron (5), Tunnels (Permanent)
 
 ### Permanent Ban Scenarios:
 
@@ -36,5 +40,6 @@
 
 
 # CURRENT WANTED BOUNTIES:
-- Fearx_ (Pick Bounty)
-
+- NoobMoment123 (Pick Bounty)
+- ILoveLowFills (Pick Bounty)
+- ChooChooAstro (Pick Bounty)
