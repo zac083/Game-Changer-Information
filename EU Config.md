@@ -31,7 +31,7 @@
 
 - Heads: Enabled, Heals 4 hearts, stackable
 
-- Absorption: Enabled, 1 Heart
+- Absorption: Enabled, 2 Hearts
 
 - Notch Apples: Disabled
 
@@ -81,9 +81,9 @@
 
 - Bookshelves: Disabled
 
-- Fire Aspect: Enabled, but only on enchanted books
+- Fire Aspect: Disabled
 
-- Flame: Enabled, but only on enchanted books
+- Flame: Disabled
 
 - Knockback Enchantment: Disabled
 
@@ -91,7 +91,7 @@
 
 - Double Arrows: Disabled
 
-- Supply Crates: Disabled
+- Supply Crates: Enabled, 2 per quadrant
 
 - Split Enchants: Enabled
 
