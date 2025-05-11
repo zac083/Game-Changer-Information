@@ -91,7 +91,7 @@ For information regarding current transaction, scenario and bounties, for each r
 - For scenarios such as Auction, Captain, Mystery Teams, there are seperate rules and how many times it will be hosted.
 - Cross Teaming in all the creation based scenarios, even if it is on in Chosen Team games, will be disabled in these modes.
 - For Auction games, they all modes will be labeled as scenarios, however it will be hosted only once.
-- Mystery Teams, captains, and Picked Teams can be hosted up to 3 times in a row.
+- Mystery Teams, Captains, RvB, and Picked Teams can be hosted up to 3 times in a row.
 
 ## Order of Picks!
 
