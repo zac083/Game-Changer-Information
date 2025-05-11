@@ -20,22 +20,24 @@
   3) HUQNTER ---> Changed Absorption to 1 heart
   4) SOAKLE ---> Remove Parafusion & Gapple Roulette, add Tunnels
 
+### Game 5:
+  1) checog ----> Change Teamsize to Single Market
+  2) midloser24 ---> Remove Tunnels, Kings, Team Swap
+
 ## Current Scenario Information:
 
 ### Team Rotation Round:
 
-#### cTo5
+#### Market
 
 #### Next in Rotation:
 
-FFA -> cTo2 -> cTo3 -> cTo4
+FFA -> cTo2 -> cTo3 -> cTo4 ---> cTo5
 
 
 ### Active Scenarios: 11
 
-- CutClean (Permanent), Double Dates (4, Disabled To2 Only), Golden Retriever (4), Fast Getaway (2), Hastey Boys (2), Kings (4), Lootcrates (5), Siphon (4), Timber (2), Timebomb (4), Team Swap (3)
+- CutClean (Permanent), Double Dates (4, Disabled To2 Only), Golden Retriever (3), Fast Getaway (1), Hastey Boys (1), Lootcrates (4), Siphon (3), Timber (1), Timebomb (3),
 
 # CURRENT WANTED BOUNTIES:
-- BleedingSweets (Free Pick Bounty)
-- DoubleHealth (Free Pick Bounty)
-- HUQNTER (Free Pick Bounty)
+- checog (Free Pick Bounty)
