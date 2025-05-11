@@ -35,9 +35,9 @@
 FFA -> cTo2 -> cTo3 -> cTo4 -> cTo5
 
 
-### Active Scenarios: 11
+### Active Scenarios: 9
 
-- CutClean (Permanent), Double Dates (4, Disabled To2 Only), Golden Retriever (3), Fast Getaway (1), Hastey Boys (1), Lootcrates (4), Siphon (3), Timber (1), Timebomb (3),
+- CutClean (Permanent), Double Dates (4, Disabled To2 Only), Golden Retriever (3), Fast Getaway (1), Hastey Boys (1), Lootcrates (4), Market (1), Siphon (3), Timber (1), Timebomb (3)
 
 # CURRENT WANTED BOUNTIES:
 - checog (Free Pick Bounty)
