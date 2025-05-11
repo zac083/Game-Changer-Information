@@ -32,7 +32,7 @@
 
 #### Next in Rotation:
 
-FFA -> cTo2 -> cTo3 -> cTo4 ---> cTo5
+FFA -> cTo2 -> cTo3 -> cTo4 -> cTo5
 
 
 ### Active Scenarios: 11
