@@ -17,21 +17,27 @@
 ### Game 4:
 1) NoobMoment123 ---> Remove Investments add Triple Iron & Add Siphon
 2) ILoveLowFills ---> Absorption 2 hearts, Fire aspect and Flame disabled, Supply crates enabled 2 per quad & Add Slender Sniper, Fortune Boys
+
+### Game 5:
+1) ILoveLowFills ---> Refresh CraftClean, Hastey Boys, Timber
+2) Ige ---> Add Bowless, Paranoia, Monsters Inc.
+3) ILoveLowFills ---> Remove Bowless, Paranoia, Monsters Inc
+4) NoobMoment123 ---> Remove No Nametags
   
 
 ## Current Scenario Information:
 
 ### Team Rotation Round:
 
-#### FFA
+#### cTo2
 
 #### Next in Rotation:
 
- cTo2 -> cTo3 -> cTo4
+ cTo3 -> cTo4 -> FFA
 
 ### Active Scenarios: 10
 
-- CraftClean (2), Fireless (3), Fortune Boys (5), Hastey Boys (3), No Nametags (4), Siphon (5), Slender Sniper (5), Timber (3), Triple Iron (5), Tunnels (Permanent)
+- CraftClean (5), Fireless (2), Fortune Boys (4), Hastey Boys (5), Siphon (4), Slender Sniper (4), Timber (5), Triple Iron (4), Tunnels (Permanent)
 
 ### Permanent Ban Scenarios:
 
@@ -40,6 +46,5 @@
 
 
 # CURRENT WANTED BOUNTIES:
-- NoobMoment123 (Pick Bounty)
-- ILoveLowFills (Pick Bounty)
-- ChooChooAstro (Pick Bounty)
+- ILoveLowFills (Cash Bounty)
+
