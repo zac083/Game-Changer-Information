@@ -24,6 +24,11 @@
   1) checog ----> Change Teamsize to Single Market
   2) midloser24 ---> Remove Tunnels, Kings, Team Swap
 
+### Game 6:
+  1) Broseph ---> Add Market, Demolition, Diamond Limit
+  2) Carter (Given to Jolly) ---> Replace Market for Tunnels
+  3) checog ---> Replace Demolition with Blood Market
+
 ## Current Scenario Information:
 
 ### Team Rotation Round:
@@ -35,9 +40,9 @@
 FFA -> cTo2 -> cTo3 -> cTo4 -> cTo5
 
 
-### Active Scenarios: 9
+### Active Scenarios: 6
 
-- CutClean (Permanent), Double Dates (4, Disabled To2 Only), Golden Retriever (3), Fast Getaway (1), Hastey Boys (1), Lootcrates (4), Market (1), Siphon (3), Timber (1), Timebomb (3)
+- CutClean (Permanent), Double Dates (4, Disabled To2 Only), Golden Retriever (2), Lootcrates (3), Blood Market (1), Siphon (2), Timebomb (2)
 
 # CURRENT WANTED BOUNTIES:
-- checog (Free Pick Bounty)
+- Broseph (Free Pick Bounty)
