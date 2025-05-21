@@ -40,9 +40,9 @@
 FFA -> cTo2 -> cTo3 -> cTo4 -> cTo5
 
 
-### Active Scenarios: 6
+### Active Scenarios: 7
 
-- CutClean (Permanent), Double Dates (4, Disabled To2 Only), Golden Retriever (2), Lootcrates (3), Blood Market (1), Siphon (2), Timebomb (2)
+- CutClean (Permanent), Double Dates (4, Disabled To2 Only), Golden Retriever (2), Lootcrates (3), Blood Market (1), Siphon (2), Timebomb (2), Tunnels (5)
 
 # CURRENT WANTED BOUNTIES:
 - Broseph (Free Pick Bounty)
