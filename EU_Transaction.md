@@ -24,20 +24,24 @@
 3) ILoveLowFills ---> Remove Bowless, Paranoia, Monsters Inc
 4) NoobMoment123 ---> Remove No Nametags
   
+### Game 6:
+  1) Midnightmayoi ---> Remove Tunnels Permanent Scenario status
+  2) ChooChooShu ---> Add Monsters Inc, Progressive Speed
+  3) ChooChooShu ---> Remove CraftClean
 
 ## Current Scenario Information:
 
 ### Team Rotation Round:
 
-#### cTo2
+#### cTo3
 
 #### Next in Rotation:
 
- cTo3 -> cTo4 -> FFA
+ cTo4 -> FFA -> cTo2
 
 ### Active Scenarios: 10
 
-- CraftClean (5), Fireless (2), Fortune Boys (4), Hastey Boys (5), Siphon (4), Slender Sniper (4), Timber (5), Triple Iron (4), Tunnels (Permanent)
+- Fireless (1), Fortune Boys (3), Hastey Boys (4), Monsters Inc. (3), Progressive Speed (3), Siphon (3), Slender Sniper (3), Timber (4), Triple Iron (3), Tunnels (4)
 
 ### Permanent Ban Scenarios:
 
@@ -46,5 +50,5 @@
 
 
 # CURRENT WANTED BOUNTIES:
-- ILoveLowFills (Cash Bounty)
-
+- ChooChooShu (Pick Bounty)
+- Midnightmayoi (Pick Bounty)
